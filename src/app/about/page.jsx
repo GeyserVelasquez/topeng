@@ -16,17 +16,17 @@ export default function About () {
             your passions, and create lasting friendships. With Topeng, you can
             discover new people, join groups, and build a network that supports
             and inspires you.
-            <br />
+            <br /><br /><br />
             Topeng is a space for authentic self-expression. Share your
             thoughts, feelings, and experiences with the world without fear of
             judgment. Our platform empowers you to be your true self and connect
             with others on a deeper level.
-            <br />
+            <br /><br /><br />
             Topeng is your one-stop shop for fun and entertainment. Discover new
             music, watch the latest videos, and play games with friends. With
             our constantly evolving features, there&#39;s always something new
             to explore on Topeng.
-            <br />
+            <br /><br /><br />
             Topeng is a platform that celebrates diversity and inclusivity. We
             welcome people from all walks of life and believe that everyone
             should have a voice. Join our community and connect with people from
@@ -43,16 +43,16 @@ export default function About () {
             bridge the digital and cultural worlds. His vision is to build a
             global community where people can share their stories and ideas
             without borders.
-            <br />
+            <br /><br /><br />
             Developing Topeng was no easy feat. Adi faced numerous technical and
             cultural challenges. However, his determination and passion led him
             to build a platform that has connected millions of people worldwide.
-            <br />
+            <br /><br /><br />
             With Topeng, Adi aims to create a space where technological
             innovation meets ancestral wisdom. His vision is for Topeng to
             become a global community that values diversity, creativity, and
             human connection.
-            <br />
+            <br /><br /><br />
             Adi, a Javanese programmer, founded Topeng with a mission to connect
             people through technology while preserving cultural heritage.
             Inspired by the traditions of his homeland, he created a platform

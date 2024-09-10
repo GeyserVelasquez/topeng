@@ -4,8 +4,8 @@ import hero from "./hero.png";
 
 export const Hero = () => {
   return (
-    <div className="index">
-      <Image src={hero} alt="hero.png" height={612} width={705} />
+    <main className="index">
+      <Image className="image" src={hero} alt="hero.png"/>
       <div className="slogan">
         <p className="LET-s-TO-TOPENG-NEW">
           LET’S TO TOPENG
@@ -21,6 +21,6 @@ export const Hero = () => {
           <div className="text-wrapper-6">JOIN NOW</div>
         </div>
       </div>
-    </div>
+    </main>
   );
 };

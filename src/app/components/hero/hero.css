@@ -1,11 +1,11 @@
 .index {
     align-items: center;
-    background-color: #f7f7f7;
     display: flex;
     /* flex-wrap: wrap; */
     gap: 43px -1px;
     justify-content: center;
-    position: relative;
+    /* position: relative; */
+    padding: 3.5vw 0;
   }
   
   .index .header-instance {
@@ -13,10 +13,11 @@
   }
   
   .index .image {
-    height: 612px;
     object-fit: cover;
     position: relative;
-    width: 705px;
+    width: 50vw;
+    height: auto;
+    object-fit: contain;
   }
   
   .index .slogan {
@@ -32,8 +33,7 @@
   .index .LET-s-TO-TOPENG-NEW {
     align-self: stretch;
     color: #ff6b00;
-    font-family: "Montserrat-ExtraBold", Helvetica;
-    font-size: 64px;
+    font-size: 4vw;
     font-weight: 800;
     letter-spacing: 0;
     line-height: normal;
