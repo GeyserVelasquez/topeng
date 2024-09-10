@@ -1,0 +1,81 @@
+.about-us {
+  align-items: center;
+  background-color: #fafafa;
+  display: flex;
+  flex-direction: column;
+  gap: 23px;
+  padding: 20px 20px 0px 20px;
+}
+
+.about-us .design-component-instance-node {
+  color: #ff6b00 !important;
+  font-family: "Montserrat-Medium", Helvetica !important;
+  font-weight: 500 !important;
+}
+
+.about-us .header-2 {
+  margin-right: unset !important;
+}
+
+.about-us .text-wrapper-6 {
+  align-self: stretch;
+  color: #ff6b00;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  letter-spacing: 1.6px;
+  line-height: normal;
+  text-align: center;
+}
+
+.about-us .frame {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 7px;
+  justify-content: center;
+}
+
+.about-us .paragraph {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 35px;
+  width: 600px;
+  line-height: 30px;
+}
+
+.about-us .text-wrapper-7 {
+  align-self: stretch;
+  color: #000000;
+  font-family: "Montserrat-SemiBold", Helvetica;
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: 0.7px;
+  line-height: normal;
+  margin-top: -1px;
+  text-align: center;
+}
+
+.about-us .flexcontainer {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.about-us .text {
+  align-self: stretch;
+  color: #000000;
+  font-family: "Montserrat-Regular", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0.6px;
+  line-height: normal;
+  text-align: justify;
+}
+
+.about-us .span {
+  letter-spacing: 0.07px;
+}
+
