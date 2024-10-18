@@ -10,7 +10,7 @@ export default function About () {
       <div className="frame">
         <article className="paragraph">
           <h2 className="text-wrapper-7">Our Thougths</h2>
-          <p className="text span">
+          <p className="text">
             Topeng is more than just a social media platform; it&#39;s a
             community where you can connect with like-minded individuals, share
             your passions, and create lasting friendships. With Topeng, you can
@@ -33,7 +33,7 @@ export default function About () {
             around the world.
           </p>
         </article>
-        <Image src={asian} alt="asian.png" height={602} width={184} />
+        <Image className="image" src={asian} alt="asian.png"/>
         <article className="paragraph">
           <h2 className="text-wrapper-7">Our Founder</h2>
           <p className="text">

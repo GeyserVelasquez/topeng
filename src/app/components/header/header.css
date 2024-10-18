@@ -89,10 +89,15 @@
   color: #ffffff;
   background-color: #ff6b00;
   border-radius: 500px;
-  height: 43px;
-  font-weight:600;
+  height: 50px;
+  font-size: large;
+  font-weight:700;
   width: 150px;
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+.current-page{
+  color: #ff6b00;
 }
